@@ -1,0 +1,1 @@
+This was my submission to the 2010 google ai challenge
